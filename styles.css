@@ -58,8 +58,8 @@ h3{
 
 .login input[type="submit"]:hover{
     cursor: pointer;
-    background: linear-gradient(225deg, #35ad2a, #cbdb3b, #dd3838);
-    color: #000000;
+    background: linear-gradient(225deg, #030e4b, #9d20e6, #0f3164);
+    color: #ffffff;
     transition: 0.5s;
 }
 
@@ -68,7 +68,7 @@ h3{
     outline: none;
     height: 40px;
     background: linear-gradient(135deg, #d63a3a, #cbdb3b, #2c9629);
-    color: #ffffff;
+    color: #000000;
     font-size: 15px;
     border-radius: 10px;
 }
